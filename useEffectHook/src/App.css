@@ -1,0 +1,16 @@
+table{
+  width: 100%;
+}
+
+table, tr, th, td{
+  border: 1px solid red;
+  border-collapse: collapse;
+  
+}
+th, td{
+padding:  0.5rem ;
+}
+.load-heading{
+  text-align: center;
+  background-color: yellow;
+}
