@@ -1,0 +1,29 @@
+input{
+    height: 30px;
+    width: 20%;
+    outline: none;
+}
+
+.btn{
+    background-color: #29A0B1;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: #fff;
+    cursor: pointer;
+}
+
+div.input-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.list-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin: 1rem 0 ;
+}

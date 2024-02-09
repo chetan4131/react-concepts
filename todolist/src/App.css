@@ -1,0 +1,18 @@
+.todo-panel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.todo-input{
+    display: flex;
+    gap: 15px;
+}
+.todo-list-table{
+    display: flex;
+    justify-content: center;
+}
+li{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
